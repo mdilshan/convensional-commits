@@ -1,0 +1,8 @@
+{
+  "name": "convensional-commits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mdilshan/convensional-commits.git",
+  "author": "mdilshan <mdilshan21@gmail.com>",
+  "license": "MIT"
+}
