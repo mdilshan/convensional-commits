@@ -1,6 +1,6 @@
 {
   "name": "convensional-commits",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "index.js",
   "repository": "https://github.com/mdilshan/convensional-commits.git",
   "author": "mdilshan <mdilshan21@gmail.com>",
